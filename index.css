@@ -182,7 +182,7 @@ body {
   background-position: center;
   background-size: cover;
   background-image: linear-gradient(rgba(0, 0, 0, 0.568), rgba(0, 0, 0, 0.548)),
-    url('../img/hero1.jpg');
+    url('img/hero1.jpg');
 }
 
 .hero div {
